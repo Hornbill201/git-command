@@ -1,4 +1,4 @@
-# git-command  
+# Useful common `git` commands. 
 
 ### Use Git commands to help keep track of changes made to a project:  
 `git init` creates a new Git repository  
@@ -6,6 +6,7 @@
 `git add filename` adds files from the working directory to the staging area  
 `git diff` shows the difference between the working directory and the staging area  
 `git commit` permanently stores file changes from the staging area in the repository  
+* git commit -m "Complete first line of dialogue"
 `git log` shows a list of all previous commits  
 
 ### Three different ways to backtrack in Git.  
@@ -34,4 +35,4 @@ Remember following commands
 `git merge origin/master`: Merges origin/master into your local branch.  
 `git push origin <branch_name>`: Pushes a local branch to the origin remote.  
 
-## Link: [Details of there commands can be found on the Codecademy.][https://www.codecademy.com/learn/learn-git] 
+## Link: [Details of there commands can be found on the Codecademy.](https://www.codecademy.com/learn/learn-git)
