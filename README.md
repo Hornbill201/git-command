@@ -1,4 +1,4 @@
-# Useful common `git` commands. 
+# Useful common `Git` commands. 
 
 ### Use Git commands to help keep track of changes made to a project:  
 `git init` creates a new Git repository  
