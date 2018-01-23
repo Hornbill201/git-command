@@ -1,5 +1,7 @@
 # Useful common `Git` commands. 
 
+This is the note of the Learn Git course on codecademy.com. Link: https://www.codecademy.com/learn/learn-git
+
 ### Use Git commands to help keep track of changes made to a project:  
 `git init` creates a new Git repository  
 `git status` inspects the contents of the working directory and staging area  
